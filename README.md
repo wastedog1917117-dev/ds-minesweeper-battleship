@@ -29,7 +29,7 @@
 
 ## ⬇️ 下载与运行
 
-1. 去 [**Releases**](https://github.com/wastedog1917117-dev/ds-minesweeper-battleship/releases/latest) 下载 `大肥鱼游戏库-v1.0.0.zip`
+1. 去 [**Releases**](https://github.com/wastedog1917117-dev/ds-minesweeper-battleship/releases/latest) 下载 `DafiyuGameLibrary-v1.0.0.zip`（约 51 MB）
 2. **把压缩包整个解压出来**
 
    > ⚠️ 别只把 `.exe` 拖出来！旁边那个 `_internal` 文件夹是它的零件，缺了打不开。
